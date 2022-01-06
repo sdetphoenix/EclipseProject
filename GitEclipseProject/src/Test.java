@@ -10,4 +10,8 @@ public class Test {
 		// This is from Remote Repository
 		
 	}
+	
+	public void methodB(){
+		//this is from repo agian
+	}
 }
