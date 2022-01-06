@@ -14,4 +14,12 @@ public class Test {
 	public void methodB(){
 		//this is from repo agian
 	}
+	
+	public void methodC() {
+		//this is in new branch
+	}
+	
+	public void methodD() {
+		// This is in shaiq branch
+	}
 }
